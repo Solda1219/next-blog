@@ -8,3 +8,6 @@ this is useful for components have static data.(this is not updated when props c
 this is for static path like [id].js here.
 
 #############################
+
+# Author
+Vladimir
